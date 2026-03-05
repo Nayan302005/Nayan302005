@@ -40,9 +40,11 @@ Most of my work revolves around Python, Django, and SQL, where I experiment with
 
 ###
 
-<h2 align="left">GitHub Contribution Snake</h2>
+<h2 align="left">GitHub Contribution</h2>
 
-<img src="https://raw.githubusercontent.com/Nayan302005/Nayan302005/output/snake.svg" alt="Snake animation" />
+<p align="center">
+<img src="https://raw.githubusercontent.com/Nayan302005/Nayan302005/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ###
 
