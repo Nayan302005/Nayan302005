@@ -57,6 +57,22 @@ Most of my work revolves around Python, Django, and SQL, where I experiment with
 
 ---
 
+<h2 align="left">Developer Quote</h2>
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+<h2 align="left">Profile Visitors</h2>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Nayan302005&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
 <h2 align="left">Open to Opportunities</h2>
 
 <div align="left">
