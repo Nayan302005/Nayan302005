@@ -1,17 +1,15 @@
-<h1 align="center">Hey, I'm Nayan Dave </h1>
+<h1 align="center">Hey, I'm Nayan Dave 👋</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=900&lines=Backend+Developer;Python+%7C+Django+Developer;Building+Scalable+Web+Applications;Focused+on+Performance+and+Clean+Architecture" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Python+%7C+Django+Developer;Building+Scalable+Web+Applications;Focused+on+Performance+and+Clean+Architecture"/>
 </p>
 
 ###
 
 <h2 align="left">About me</h2>
 
-###
-
 <p align="left">
-Welcome to my Developer Space!<br><br>
+Welcome to my Developer Space 🚀<br><br>
 
 I'm Nayan Dave — a backend developer who enjoys building the logic and systems that power real applications. I focus on writing clean backend code, designing structured databases, and turning complex ideas into working web systems.<br><br>
 
@@ -28,19 +26,33 @@ Most of my work revolves around Python, Django, and SQL, where I experiment with
 
 <h2 align="left">Tech Stack</h2>
 
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</div>
+
 ###
 
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
-<img width="12"/>
-<img src="https://skillicons.dev/icons?i=github" height="40" alt="github"/>
-</div>
+<h2 align="left">GitHub Stats</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Nayan302005&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+</p>
+
+###
+
+<h2 align="left">Top Languages</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayan302005&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+</p>
 
 ###
 
