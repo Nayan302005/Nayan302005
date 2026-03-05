@@ -39,17 +39,9 @@ Most of my work revolves around Python, Django, and SQL, where I experiment with
 </div>
 
 ###
-<h2 align="left">GitHub Stats</h2>
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nayan302005&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
-</p>
-###
-
-<h2 align="left">Top Languages</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayan302005&layout=compact&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nayan302005&show_icons=true&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayan302005&layout=compact&theme=tokyonight"/>
 </p>
 
 ###
