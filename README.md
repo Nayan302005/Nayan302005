@@ -1,4 +1,8 @@
-<h1 align="center">Hey, I'm Nayan Dave - a backend developer focused on performance, scalability, and clean architecture.</h1>
+<h1 align="center">Hey, I'm Nayan Dave </h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=900&lines=Backend+Developer;Python+%7C+Django+Developer;Building+Scalable+Web+Applications;Focused+on+Performance+and+Clean+Architecture" />
+</p>
 
 ###
 
