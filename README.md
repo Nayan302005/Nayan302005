@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Python+%7C+Django+Developer;Building+Scalable+Web+Applications;Focused+on+Performance+and+Clean+Architecture"/>
 </p>
 
-###
+---
 
 <h2 align="left">About me</h2>
 
@@ -22,7 +22,7 @@ Most of my work revolves around Python, Django, and SQL, where I experiment with
 🧠 I like solving logical problems and improving the way systems are structured.
 </p>
 
-###
+---
 
 <h2 align="left">Tech Stack</h2>
 
@@ -38,13 +38,16 @@ Most of my work revolves around Python, Django, and SQL, where I experiment with
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </div>
 
-###
+---
+
+<h2 align="left">GitHub Stats</h2>
+
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nayan302005&show_icons=true&theme=tokyonight"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayan302005&layout=compact&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nayan302005&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nayan302005&layout=compact&theme=tokyonight"/>
 </p>
 
-###
+---
 
 <h2 align="left">GitHub Contribution</h2>
 
@@ -52,7 +55,7 @@ Most of my work revolves around Python, Django, and SQL, where I experiment with
 <img src="https://raw.githubusercontent.com/Nayan302005/Nayan302005/output/github-contribution-grid-snake.svg"/>
 </p>
 
-###
+---
 
 <h2 align="left">Open to Opportunities</h2>
 
