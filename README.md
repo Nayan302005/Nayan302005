@@ -35,7 +35,7 @@ My work revolves around SQL, Python, and Power BI, where I build dashboards, ana
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
 <img width="12"/>
-<img src="https://skillicons.dev/icons?i=powerbi" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40"/>
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 <img width="12"/>
