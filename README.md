@@ -26,51 +26,41 @@ My work revolves around SQL, Python, and Power BI, where I build dashboards, ana
 
 <h2 align="left">Tech Stack</h2>
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/><br>Python
+</td>
 
-<!-- Python -->
-<div style="background:#111; padding:15px 20px; border-radius:12px; display:flex; align-items:center; gap:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-  <span style="color:white; font-weight:500;">Python</span>
-</div>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/><br>SQL
+</td>
 
-<!-- SQL -->
-<div style="background:#111; padding:15px 20px; border-radius:12px; display:flex; align-items:center; gap:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
-  <span style="color:white; font-weight:500;">SQL</span>
-</div>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/><br>Pandas
+</td>
 
-<!-- Pandas -->
-<div style="background:#111; padding:15px 20px; border-radius:12px; display:flex; align-items:center; gap:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30"/>
-  <span style="color:white; font-weight:500;">Pandas</span>
-</div>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/><br>NumPy
+</td>
+</tr>
 
-<!-- NumPy -->
-<div style="background:#111; padding:15px 20px; border-radius:12px; display:flex; align-items:center; gap:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30"/>
-  <span style="color:white; font-weight:500;">NumPy</span>
-</div>
+<tr>
+<td align="center" width="120">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40"/><br>Power BI
+</td>
 
-<!-- Power BI -->
-<div style="background:#111; padding:15px 20px; border-radius:12px; display:flex; align-items:center; gap:10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30"/>
-  <span style="color:white; font-weight:500;">Power BI</span>
-</div>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/><br>Git
+</td>
 
-<!-- Git -->
-<div style="background:#111; padding:15px 20px; border-radius:12px; display:flex; align-items:center; gap:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
-  <span style="color:white; font-weight:500;">Git</span>
-</div>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" height="40"/><br>GitHub
+</td>
 
-<!-- GitHub -->
-<div style="background:#111; padding:15px 20px; border-radius:12px; display:flex; align-items:center; gap:10px;">
-  <img src="https://skillicons.dev/icons?i=github" height="30"/>
-  <span style="color:white; font-weight:500;">GitHub</span>
-</div>
-
-</div>
+<td></td>
+</tr>
+</table>
 
 ---
 
