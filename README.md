@@ -42,18 +42,7 @@ My work revolves around SQL, Python, and Power BI, where I build dashboards, ana
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </div>
 
----
 
-<h2 align="left">Projects</h2>
-
-<ul>
-<li>📊 HR Analytics Dashboard (Power BI)</li>
-<li>📈 Sales Data Analysis using Python</li>
-<li>🧮 SQL Data Exploration Project</li>
-<li>📉 Customer Attrition Analysis</li>
-</ul>
-
----
 
 <h2 align="left">GitHub Stats</h2>
 
