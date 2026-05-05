@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Nayan Dave 👋</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Python+%7C+Django+Developer;Building+Scalable+Web+Applications;Focused+on+Performance+and+Clean+Architecture"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Turning+Data+into+Insights;Focused+on+Analytics+and+Visualization"/>
 </p>
 
 ---
@@ -9,17 +9,17 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-Welcome to my Developer Space 🚀<br><br>
+Welcome to my Data World 📊<br><br>
 
-I'm Nayan Dave — a backend developer who enjoys building the logic and systems that power real applications. I focus on writing clean backend code, designing structured databases, and turning complex ideas into working web systems.<br><br>
+I'm Nayan Dave — a passionate Data Analyst who enjoys transforming raw data into meaningful insights. I focus on data cleaning, analysis, and visualization to help make better decisions.<br><br>
 
-Most of my work revolves around Python, Django, and SQL, where I experiment with building authentication systems, web platforms, and scalable backend logic. I believe strong fundamentals and consistent practice create great developers.<br><br>
+My work revolves around SQL, Python, and Power BI, where I build dashboards, analyze datasets, and uncover patterns that drive business value.<br><br>
 
-🚀 Currently exploring deeper concepts in Django, backend architecture, and database design.<br><br>
+🚀 Currently exploring advanced data analysis, dashboard design, and real-world datasets.<br><br>
 
-⚙️ I enjoy building projects from scratch to understand how real applications work behind the scenes.<br><br>
+📊 I enjoy creating interactive dashboards and telling stories with data.<br><br>
 
-🧠 I like solving logical problems and improving the way systems are structured.
+🧠 Strong believer in learning by building real projects and solving analytical problems.
 </p>
 
 ---
@@ -29,14 +29,29 @@ Most of my work revolves around Python, Django, and SQL, where I experiment with
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
 <img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
-<img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://skillicons.dev/icons?i=powerbi" height="40"/>
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 <img width="12"/>
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </div>
+
+---
+
+<h2 align="left">Projects</h2>
+
+<ul>
+<li>📊 HR Analytics Dashboard (Power BI)</li>
+<li>📈 Sales Data Analysis using Python</li>
+<li>🧮 SQL Data Exploration Project</li>
+<li>📉 Customer Attrition Analysis</li>
+</ul>
 
 ---
 
