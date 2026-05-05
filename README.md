@@ -58,7 +58,7 @@ My work revolves around SQL, Python, and Power BI, where I build dashboards, ana
 <img src="https://skillicons.dev/icons?i=github" height="40"/><br>GitHub
 </td>
 
-<td></td>
+
 </tr>
 </table>
 
