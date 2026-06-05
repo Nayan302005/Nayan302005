@@ -21,7 +21,7 @@
 # 💫 About Me
 
 <table>
-<tr>
+
 <td width="65%">
 
 ### Welcome to my Data World 📊
@@ -44,7 +44,7 @@ My work revolves around **SQL, Python, and Power BI**, where I build dashboards,
 
 
 </td>
-</tr>
+
 </table>
 
 ---
