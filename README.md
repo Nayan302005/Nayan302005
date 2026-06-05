@@ -22,11 +22,12 @@
 
 <table>
 
-<td width="65%">
+<tr>
+<td>
 
 ### Welcome to my Data World 📊
 
-I'm **Nayan Dave** — a passionate **Data Analyst** who enjoys transforming raw data into meaningful insights. I focus on **data cleaning, analysis, and visualization** to help make better decisions.
+I'm **Nayan Dave** — a passionate **Data Analyst** who enjoys transforming raw data into meaningful insights.
 
 My work revolves around **SQL, Python, and Power BI**, where I build dashboards, analyze datasets, and uncover patterns that drive business value.
 
@@ -39,12 +40,7 @@ My work revolves around **SQL, Python, and Power BI**, where I build dashboards,
 🎯 Goal: Transform complex datasets into actionable business intelligence.
 
 </td>
-
-<td width="35%" align="center">
-
-
-</td>
-
+</tr>
 </table>
 
 ---
