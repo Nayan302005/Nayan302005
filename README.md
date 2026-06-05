@@ -1,30 +1,34 @@
 <div align="center">
 
-# Hey, I'm Nayan Dave 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F7FF,50:0078FF,100:001F54&text=Nayan%20Dave&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+# 📊 Data Analyst | SQL • Python • Power BI
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Turning+Data+into+Insights;Focused+on+Analytics+and+Visualization"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Turning+Data+into+Insights;Focused+on+Analytics+and+Visualization;Creating+Interactive+Dashboards;Data+Storytelling+Through+Visualization"/>
 </p>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Nayan302005&label=Profile%20Views&color=0e75b6&style=flat"/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Nayan302005&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Nayan302005?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Nayan302005?affiliations=OWNER&style=for-the-badge"/>
+</p>
 
 </div>
 
 ---
 
-## About me
+# 💫 About Me
 
 <table>
 <tr>
-<td>
+<td width="65%">
 
 ### Welcome to my Data World 📊
 
-I'm Nayan Dave — a passionate Data Analyst who enjoys transforming raw data into meaningful insights. I focus on data cleaning, analysis, and visualization to help make better decisions.
+I'm **Nayan Dave** — a passionate **Data Analyst** who enjoys transforming raw data into meaningful insights. I focus on **data cleaning, analysis, and visualization** to help make better decisions.
 
-My work revolves around SQL, Python, and Power BI, where I build dashboards, analyze datasets, and uncover patterns that drive business value.
+My work revolves around **SQL, Python, and Power BI**, where I build dashboards, analyze datasets, and uncover patterns that drive business value.
 
 🚀 Currently exploring advanced data analysis, dashboard design, and real-world datasets.
 
@@ -32,47 +36,74 @@ My work revolves around SQL, Python, and Power BI, where I build dashboards, ana
 
 🧠 Strong believer in learning by building real projects and solving analytical problems.
 
+🎯 Goal: Transform complex datasets into actionable business intelligence.
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nayan302005&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 </td>
 </tr>
 </table>
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55"/><br><b>Python</b>
+
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/><br><br>
+<b>Python</b>
 </td>
 
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55"/><br><b>SQL</b>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60"/><br><br>
+<b>SQL</b>
 </td>
 
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55"/><br><b>Pandas</b>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60"/><br><br>
+<b>Pandas</b>
 </td>
 
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="55"/><br><b>NumPy</b>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60"/><br><br>
+<b>NumPy</b>
 </td>
+
 </tr>
 
 <tr>
-<td align="center" width="140">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="55"/><br><b>Power BI</b>
+
+<td align="center" width="150">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="60"/><br><br>
+<b>Power BI</b>
 </td>
 
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55"/><br><b>Git</b>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/><br><br>
+<b>Git</b>
 </td>
 
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=github" height="55"/><br><b>GitHub</b>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=github" height="60"/><br><br>
+<b>GitHub</b>
 </td>
+
+<td align="center" width="150">
+
+### 📈
+
+**Analytics**
+
+</td>
+
 </tr>
 </table>
 
@@ -80,19 +111,61 @@ My work revolves around SQL, Python, and Power BI, where I build dashboards, ana
 
 ---
 
-## 📈 GitHub Analytics
+# 🚀 Current Focus
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nayan302005&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nayan302005&layout=compact&theme=tokyonight"/>
+| 🔍 Learning | 📊 Building | 🎯 Exploring |
+|------------|------------|------------|
+| Advanced Analytics | Interactive Dashboards | Real-World Datasets |
+| Data Cleaning | Power BI Reports | Business Intelligence |
+| Data Visualization | Analytics Projects | Data Storytelling |
 
 </div>
 
 ---
 
-## 🐍 GitHub Contribution Snake
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nayan302005&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayan302005&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nayan302005&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nayan302005&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📊 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nayan302005&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🐍 GitHub Contribution Snake
 
 <div align="center">
 
@@ -102,7 +175,7 @@ My work revolves around SQL, Python, and Power BI, where I build dashboards, ana
 
 ---
 
-## 💡 Developer Quote
+# 💡 Developer Quote
 
 <div align="center">
 
@@ -112,29 +185,81 @@ My work revolves around SQL, Python, and Power BI, where I build dashboards, ana
 
 ---
 
-## 👀 Profile Visitors
+# 📊 Profile Insights
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Nayan302005&label=Profile%20Views&color=0e75b6&style=flat"/>
+<table>
+<tr>
+
+<td align="center">
+
+### 📈
+Data Analytics
+
+</td>
+
+<td align="center">
+
+### 🐍
+Python
+
+</td>
+
+<td align="center">
+
+### 🗄️
+SQL
+
+</td>
+
+<td align="center">
+
+### 📊
+Power BI
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🤝 Open to Opportunities
+# 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Nayan302005&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🤝 Open to Opportunities
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/nayan-dave-124418351/" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="45"/>
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:nayandave.2023@gmail.com">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="45"/>
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="50"/>
 </a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💼 Open for
+
+📊 Data Analytics Projects • 📈 Dashboard Development • 🐍 Python Analytics • 📉 Business Intelligence
 
 </div>
 
@@ -142,10 +267,14 @@ My work revolves around SQL, Python, and Power BI, where I build dashboards, ana
 
 <div align="center">
 
-## ⭐ Thanks for Visiting
+## ⭐ Thanks for Visiting My Profile
 
-### Turning Data into Insights with SQL, Python & Power BI
+### Turning Data Into Actionable Insights
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0078FF&height=120&section=footer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thank+You+For+Visiting!;Happy+Coding!;Keep+Learning+Keep+Growing!"/>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00F7FF,50:0078FF,100:001F54"/>
 
 </div>
