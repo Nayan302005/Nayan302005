@@ -42,7 +42,6 @@ My work revolves around **SQL, Python, and Power BI**, where I build dashboards,
 
 <td width="35%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nayan302005&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </td>
 </tr>
@@ -125,35 +124,6 @@ My work revolves around **SQL, Python, and Power BI**, where I build dashboards,
 
 ---
 
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nayan302005&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayan302005&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nayan302005&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nayan302005&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15"/>
-
-</div>
-
----
 
 # 📊 Contribution Activity
 
