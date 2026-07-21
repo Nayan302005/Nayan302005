@@ -5,7 +5,7 @@
 # 📊 Data Analyst | MySQL • Python • Power BI • Excel
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Turning+Data+into+Insights;Focused+on+Analytics+and+Visualization;Creating+Interactive+Dashboards;Data+Storytelling+Through+Visualization"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Data+Analyst;MySQL+%7C+Python+%7C+Power+BI+%7c+Excel;Turning+Data+into+Insights;Focused+on+Analytics+and+Visualization;Creating+Interactive+Dashboards;Data+Storytelling+Through+Visualization"/>
 </p>
 
 <p align="center">
