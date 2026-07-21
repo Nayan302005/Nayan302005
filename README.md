@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F7FF,50:0078FF,100:001F54&text=Nayan%20Dave&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-# 📊 Data Analyst | SQL • Python • Power BI
+# 📊 Data Analyst | MySQL • Python • Power BI • Excel
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Turning+Data+into+Insights;Focused+on+Analytics+and+Visualization;Creating+Interactive+Dashboards;Data+Storytelling+Through+Visualization"/>
